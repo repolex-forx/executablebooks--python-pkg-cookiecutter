@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "python-pkg-cookiecutter",
+  "versions": [
+    {
+      "commit": "e8ee7a8c517396496b04eb701d7462dc3f580a78",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:05:52.367853+00:00"
+    }
+  ]
+}
