@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/python-pkg-cookiecutter/commit/e8ee7a8c517396496b04eb701d7462dc3f580a78",
       "git:hexsha": "e8ee7a8c517396496b04eb701d7462dc3f580a78",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:05:52.367335+00:00"
     }
   ]
 }
